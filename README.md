@@ -1,4 +1,4 @@
-# Sorted_files
+# Sorted Files
 
 This Python script provides a file management utility for organizing files based on their extensions, removing duplicates, and handling existing file conflicts in specified directories.
 
